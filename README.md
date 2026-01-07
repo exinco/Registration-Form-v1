@@ -34,7 +34,7 @@ A modern, responsive registration form built with React that saves data directly
 📦 Setup & Installation
 Clone the repository
 
->git clone [https://github.com/yourusername/registration-form.git](https://github.com/yourusername/registration-form.git)
+>git clone [https://github.com/exinco/registration-form.git](https://github.com/yourusername/registration-form.git)
 cd registration-form
 Install dependencies
 
